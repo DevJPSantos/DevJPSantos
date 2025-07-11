@@ -25,7 +25,7 @@
 
 <p align="left">
   Estudante de Ciência da Computação apaixonado por <strong>tecnologia</strong>, <strong>arte</strong> e <strong>observar o céu</strong> 🌌<br/>
-  Atualmente rabalho com desenvolvimento web.
+  Atualmente trabalho com desenvolvimento web.
 </p>
 
 <hr>
